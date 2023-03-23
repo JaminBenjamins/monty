@@ -181,7 +181,7 @@ $ ./monty queue.m
 Strictly followed `Betty` style guide. To install
 
 ```
-$ git clone https://github.com/alx/Betty.git
+$ git clone https://github.com/name/Betty.git
 
 $ cd Betty; ./install.sh
 ```

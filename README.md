@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/111277935/227229194-7f220108-3459-41f1-9736-8ef2da325e3f.png)
+
+
 # :snake: Monty Interpreter
 
 Welcome to the Monty Bytecode Interpreter. This interpreter was built in the C language and is compliant with `ISO90`, `ISO99`, & `ISO11`. It reads Monty bytecode files of any extension (preferably `.m` although it doesn't matter), and interprets the opcodes contained.
@@ -178,7 +181,7 @@ $ ./monty queue.m
 Strictly followed `Betty` style guide. To install
 
 ```
-$ git clone https://github.com/holbertonschool/Betty.git
+$ git clone https://github.com/alx/Betty.git
 
 $ cd Betty; ./install.sh
 ```
